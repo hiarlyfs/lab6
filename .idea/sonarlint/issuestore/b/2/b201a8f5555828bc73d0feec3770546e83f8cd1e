@@ -1,0 +1,9 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼ö±¼şÿÿÿÿ8Ï¿À/
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑÃ×8Ï¿À/
+l	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–ªî^8ØÍÀ/
+X	java:S107 "=Method has 10 parameters, which is greater than 7 authorized.(–ªî^8ØÍÀ/
+Œ
+java:S1192,"oDefine a constant instead of duplicating this literal "NÃ£o existe uma pessoa cadastrada com esse CPF" 4 times.(ÈÒ®÷8á ¬À/
+r	java:S117!"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼ö±¼şÿÿÿÿ8ØÍÀ/
+Y	java:S107"=Method has 10 parameters, which is greater than 7 authorized.(ÑÃ×8Ï¿À/

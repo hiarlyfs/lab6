@@ -1,0 +1,8 @@
+
+c	java:S107"BConstructor has 10 parameters, which is greater than 7 authorized.(°íÚÂøÿÿÿÿ8µê™/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°íÚÂøÿÿÿÿ8µê™/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°íÚÂøÿÿÿÿ8µê™/
+u	java:S116"TRename this field "endereÃ§o" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıº¦Éÿÿÿÿÿ8û…ˆ/
+o	java:S116"NRename this field "CPF" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êò˜Îúÿÿÿÿ8û…ˆ/
+W
+java:S1128":Remove this unused import 'situacao_pessoa.NaoHabilitado'.(„¨¸½8’¤Ñ¿/

@@ -1,0 +1,10 @@
+
+j	java:S100("NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şµÅ£8¥ïË¿/
+Q
+java:S1128"5Remove this unused import 'situacao_pessoa.Situacao'.(˜ —I8Ú›É¿/
+c	java:S107"BConstructor has 10 parameters, which is greater than 7 authorized.(îãİ²øÿÿÿÿ8˜¢Ä¿/
+o	java:S116	"NRename this field "CPF" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êò˜Îúÿÿÿÿ8Á†»¿/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îãİ²øÿÿÿÿ8˜¢Ä¿/
+u	java:S116
+"TRename this field "endereÃ§o" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıº¦Éÿÿÿÿÿ8Á†»¿/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îãİ²øÿÿÿÿ8˜¢Ä¿/
